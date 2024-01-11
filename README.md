@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushant Vikas Jadhav</h1>
-<h3 align="center">A passionate Softeware Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 - 🔭 I’m currently working on **Devops with Azure and API designing**
 

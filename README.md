@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Devops and cloud , microservices**
 
-- 📫 How to reach me **sushantjadhav416@gamil.com**
+- 📫 How to reach me **sushantjadhav416@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/sushantjadhav416](https://github.com/sushantjadhav416)
 

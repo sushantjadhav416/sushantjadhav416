@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sushantjadhav416@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/sushantjadhav416](https://github.com/sushantjadhav416)
+- 📄 Know about my experiences [https://github.com/sushantjadhav416/Important_notes_Docs/blob/master/Sushant_Jadhav_updated_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

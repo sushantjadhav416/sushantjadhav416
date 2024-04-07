@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sushantjadhav416@gmail.com**
 
-- 📄 Know about my experiences **https://github.com/sushantjadhav416/Important_notes_Docs/blob/master/Software_Engineer_Devops_backend.pdf**
+- 📄 Know about my experiences **https://github.com/sushantjadhav416/Important_notes_Docs/blob/master/Software_Engineer_Devops_backend_ (2).pdf**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

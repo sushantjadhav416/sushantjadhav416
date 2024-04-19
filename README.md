@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sushant Vikas Jadhav</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A Passionate Software Engineer From India</h3>
 
 - 🔭 I’m currently working on **Devops practices with Microsoft Azure Cloud and Backend API development**
 
-- 🌱 I’m currently learning **Aws cloud , devops tools and React.js, Api design**
+- 🌱 I’m currently learning **Aws cloud , Devops tools and React.js, Api design**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sushantjadhav416](https://github.com/sushantjadhav416)
 
-- 💬 Ask me about **Devops , cloud computing and java, C# Languages**
+- 💬 Ask me about **Devops , Cloud Computing and Java, C# Languages**
 
 - 📫 How to reach me **sushantjadhav416@gmail.com**
 
 - 📄 Know about my experiences **https://github.com/sushantjadhav416/Important_notes_Docs/blob/master/Software_Engineer_Devops_backend_ (2).pdf**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect With me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sushant jadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushant jadhav" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sushantjadhav416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sushantjadhav416" height="30" width="40" /></a>

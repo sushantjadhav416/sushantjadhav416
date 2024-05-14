@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sushant Vikas Jadhav</h1>
 <h3 align="center">A Passionate Software Engineer From India</h3>
 
-- 🔭 I’m currently working on **Devops practices with Microsoft Azure Cloud and Backend API development**
+- 🔭 I’m currently working on **Devops Practices with Microsoft Azure Cloud and Backend API development**
 
-- 🌱 I’m currently learning **Aws Cloud , Devops Tools and React.js, Api Development**
+- 🌱 I’m currently learning **Devops Tools and React.js and Api Development**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sushantjadhav416](https://github.com/sushantjadhav416)
 
-- 💬 Ask me about **Devops , Cloud Computing and Java, C# Languages**
+- 💬 Ask me about **Devops, Cloud Computing and Java, C# Languages, Python**
 
 - 📫 How to reach me **sushantjadhav416@gmail.com**
 

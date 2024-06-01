@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Devops Practices with Microsoft Azure Cloud and Backend API development**
 
-- 🌱 I’m currently learning **Devops Tools and React.js and Api Development**
+- 🌱 I’m currently learning **Devops Tools and React.js and Restful Api Development**
 
 - 👯 I’m looking to collaborate on **Open Source**
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sushant Vikas Jadhav</h1>
 <h3 align="center">A Passionate Software Engineer From India</h3>
 
-- 🔭 I’m currently working on **Java Backend Development and Devops Practices with Microsoft Azure Cloud **
+- 🔭 I’m currently working on **Java Backend Development and Devops Practices with Microsoft Azure Cloud**
 
 - 🌱 I’m currently learning **Devops Tools and React.js and Restful Api Development**
 

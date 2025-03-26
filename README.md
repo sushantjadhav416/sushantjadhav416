@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Java Backend Development and Devops Practices with Microsoft Azure Cloud**
 
-- 🌱 I’m currently learning **Devops Tools, React-js and Restful Api Development**
+- 🌱 I’m currently learning **GenAI Integration, Devops Tools, React-js and Restful Api Development**
 
 - 👯 I’m looking to collaborate on **Open Source**
 

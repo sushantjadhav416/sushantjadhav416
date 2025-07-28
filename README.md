@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sushantjadhav416](https://github.com/sushantjadhav416)
-
 - 💬 Ask me about **Devops, Cloud Computing and Java development, Python**
 
 - 📫 How to reach me **sushantjadhav416@gmail.com**

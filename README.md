@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sushant Vikas Jadhav</h1>
 <h3 align="center">A Passionate Software Engineer From India</h3>
 
-- 🔭 I’m currently working on **Java Backend Development and Devops Practices with Microsoft Azure Cloud**
+- 🔭 I’m currently working on **ALM Polarion Development and Integration | Java Backend Development | Best Devops Practices with Microsoft Azure Cloud**
 
-- 🌱 I’m currently learning **GenAI Integration, Devops Tools, React-js and Restful Api Development**
+- 🌱 I’m currently learning **ALM Tool Development| GenAI Integration |Devops Tools |React-js|Restful Api Development**
 
 - 👯 I’m looking to collaborate on **Open Source**
 

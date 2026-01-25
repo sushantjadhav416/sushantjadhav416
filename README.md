@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **ALM Polarion Development and Integration | Java Backend Development | Best Devops Practices with Microsoft Azure Cloud**
 
-- 🌱 I’m currently learning **ALM Tool Development | GenAI Integration  |Devops Tools |React-js | Restful Api Development**
+- 🌱 I’m currently learning **ALM Tool Development | GenAI Integration and Gen AI based development |Devops Tools |React-js | Restful Api Development**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 💬 Ask me about **Devops, Cloud Computing and Java development, Python**
+- 💬 Ask me about **Devops, Cloud Computing and Java development, Gen AI Development**
 
 - 📫 How to reach me **sushantjadhav416@gmail.com**
 

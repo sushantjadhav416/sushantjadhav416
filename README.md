@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sushant Vikas Jadhav</h1>
 <h3 align="center">A Passionate Software Engineer From India</h3>
 
-- 🔭 I’m currently working on **ALM Polarion Development and Integration | Java Backend Development | Best Devops Practices with Microsoft Azure Cloud**
+- 🔭 Working as an ALM Consultant & Polarion Developer with strong focus on Java backend development, system integrations, and enterprise ALM solutions
 
-- 🌱 I’m currently learning **ALM Tool Development | GenAI Integration and Gen AI based development |Devops Tools |React-js | Restful Api Development**
+- 🌱 Actively learning GenAI integration, AI-assisted development, React.js, RESTful APIs, and modern DevOps practices
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 🧠 Experienced in ALM solutioning, Polarion customization, workflows, integrations, and upgrades
 
-- 💬 Ask me about **Devops, Cloud Computing and Java development, Gen AI Development**
+- 🚀 Exploring Vibe Coding, rapid product prototyping, and next-gen development standards
 
-- 📫 How to reach me **sushantjadhav416@gmail.com**
+- 👯 Open to collaborating on Open Source & ALM/Developer tooling projects
+
+- 💬 Ask me about Polarion ALM, Java, DevOps, Cloud (Azure), and GenAI integration
+
+- 📫 Reach me at sushantjadhav416@gmail.com
 
 - 📄 Know about my experiences **https://github.com/sushantjadhav416/Important_notes_Docs/blob/master/Sushant_Jadhav_Java_Developer.pdf**
 

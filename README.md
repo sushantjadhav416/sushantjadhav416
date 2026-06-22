@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sushant Vikas Jadhav</h1>
 <h3 align="center">A Passionate Software Engineer From India</h3>
 
-- 🔭 Working as an ALM Consultant & Polarion Developer with strong focus on Java backend development, system integrations, and enterprise ALM solutions
+- 🔭 Working as an ALM Consultant & Siemens Polarion Developer with strong focus on Java backend development, system integrations, and enterprise ALM solutions
 
 - 🌱 Actively learning GenAI integration, AI-assisted development, React.js, RESTful APIs, and modern DevOps practices
 

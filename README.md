@@ -7,7 +7,7 @@
 
 - 🧠 Experienced in ALM solutioning, Polarion customization, workflows, integrations, and upgrades
 
-- 🚀 Exploring Vibe Coding, rapid product prototyping, and next-gen development standards
+- 🚀 Exploring AI, rapid product prototyping using AI, and next-gen development standards
 
 - 👯 Open to collaborating on Open Source & ALM/Developer tooling projects
 
